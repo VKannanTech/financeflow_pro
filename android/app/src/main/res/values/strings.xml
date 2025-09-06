@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FinanceFlow Pro</string>
+    <string name="app_description">Your Financial Future Starts Here</string>
+    <string name="notification_channel_name">FinanceFlow Notifications</string>
+    <string name="notification_channel_description">Transaction alerts and updates</string>
+    <string name="biometric_title">Authenticate</string>
+    <string name="biometric_subtitle">Use your fingerprint to authenticate</string>
+    <string name="biometric_description">Place your finger on the fingerprint sensor</string>
+    <string name="biometric_negative_button">Cancel</string>
+</resources>

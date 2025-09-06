@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="launch_background_color">#FF2563EB</color>
+    <color name="primary_color">#FF2563EB</color>
+    <color name="secondary_color">#FF10B981</color>
+    <color name="accent_color">#FF8B5CF6</color>
+    <color name="success_color">#FF22C55E</color>
+    <color name="warning_color">#FFF59E0B</color>
+    <color name="error_color">#FFEF4444</color>
+    <color name="background_color">#FFFAFAFA</color>
+    <color name="surface_color">#FFFFFFFF</color>
+    <color name="text_primary">#FF1F2937</color>
+    <color name="text_secondary">#FF6B7280</color>
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="rectangle">
+            <gradient
+                android:startColor="#FF2563EB"
+                android:endColor="#FF3B82F6"
+                android:angle="45" />
+        </shape>
+    </item>
+
+    <!-- App Logo -->
+    <item android:gravity="center">
+        <shape android:shape="oval">
+            <size android:width="120dp" android:height="120dp" />
+            <solid android:color="@android:color/white" />
+        </shape>
+    </item>
+
+    <!-- Icon -->
+    <item android:gravity="center">
+        <shape android:shape="rectangle">
+            <size android:width="60dp" android:height="60dp" />
+            <solid android:color="#FF2563EB" />
+        </shape>
+    </item>
+</layer-list>
